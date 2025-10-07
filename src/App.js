@@ -351,7 +351,7 @@ const Portfolio = () => {
             <h1>Rivaldo Juanda Tampubolon</h1>
             <p className="lead">Computer Science Student | Cybersecurity Enthusiast</p>
             <p className="desc">
-              4th Semester Computer Science student at Universitas Sumatera Utara with a strong passion for cybersecurity. 
+              5th Semester Computer Science student at Universitas Sumatera Utara with a strong passion for cybersecurity. 
               My goal is to become a cybersecurity professional who can contribute to strengthening Indonesia's digital resilience.
             </p>
             <div className="buttons">
@@ -374,11 +374,11 @@ const Portfolio = () => {
             <h2 className="section-title">About Me</h2>
             <div className="grid">
               <div>
-                <p>I am a fourth-semester Computer Science student at Universitas Sumatera Utara with a strong interest in cybersecurity. My curiosity in this field began with online content, news, and dramas that showcased real-world cyber challenges.</p>
+                <p>I am a fifth-semester Computer Science student at Universitas Sumatera Utara with a strong interest in cybersecurity. My curiosity in this field began with online content, news, and dramas that showcased real-world cyber challenges.</p>
                 <p>Over time, I began exploring cybersecurity through courses, competitions, and hands-on projects. My career goal is to become a cybersecurity professional who can contribute to strengthening Indonesia's digital resilience while collaborating on an international level.</p>
                 <div className="flex facts">
                   <div className="item">
-                    <BookOpen size={20} /><span>GPA: 3.88/4.00</span>
+                    <BookOpen size={20} /><span>GPA: 3.84/4.00</span>
                   </div>
                   <div className="item">
                     <Shield size={20} /><span>Cybersecurity Focus</span>
